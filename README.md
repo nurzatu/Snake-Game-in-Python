@@ -7,7 +7,7 @@ A classic Snake game built with Python and Pygame. Control the snake, eat the fo
 - 🍎 Randomly spawning food
 - 🎮 Keyboard controls (Arrow keys)
 - 💀 Collision detection (walls & self)
-- 🎨 Simple but fun graphics
+- 🎨 Simple but fun graphics 
 
 ## Installation
 1. Clone the repository:
