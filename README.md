@@ -10,7 +10,7 @@ A classic Snake game built with Python and Pygame. Control the snake, eat the fo
 - 🎨 Simple but fun graphics 
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: 
    ```sh
    git clone https://github.com/yourusername/snake-game.git
    cd snake-game
