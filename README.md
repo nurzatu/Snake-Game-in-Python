@@ -18,7 +18,7 @@ A classic Snake game built with Python and Pygame. Control the snake, eat the fo
 2. Install dependencies: 
    ```sh  
    pip install pygame  
-   ```
+   ``` 
 3. Run the game:
    ```sh
    python snake.py
