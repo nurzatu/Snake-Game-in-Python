@@ -15,7 +15,7 @@ A classic Snake game built with Python and Pygame. Control the snake, eat the fo
    git clone https://github.com/yourusername/snake-game.git
    cd snake-game
    ```
-2. Install dependencies: 
+2. Install dependencies:  
    ```sh  
    pip install pygame  
    ``` 
